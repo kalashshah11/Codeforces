@@ -337,6 +337,22 @@
     ],
     "timestamp": "Dec/15/2020 21:25"
   },
+  "CF98761552": {
+    "contest_id": 1439,
+    "language": "GNU C++17",
+    "path": "codeforces\\1439\\A1.cpp",
+    "problem_index": "A1",
+    "problem_name": "Binary Table (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1439/problem/A1",
+    "submission_id": "CF98761552",
+    "submission_url": "https://codeforces.com/contest/1439/submission/98761552",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Nov/18/2020 03:00"
+  },
   "CF98762575": {
     "contest_id": 1440,
     "language": "GNU C++17",
